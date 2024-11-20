@@ -33,3 +33,14 @@ que contém as seguintes colunas:
 2. **Pré-processamento dos Dados**: Limpeza e transformação dos dados para preparar o dataset para o treinamento do modelo de Machine Learning.
 3. **Treinamento do Modelo**: Utilização do algoritmo **Random Forest** para treinar o modelo preditivo baseado nos dados históricos.
 4. **Avaliação do Modelo**: Avaliação do desempenho do modelo utilizando métricas como **MAE**, **MSE** e **RMSE**, e visualização dos resultados.
+
+## **Resultados Obtidos**
+Após o treinamento e avaliação do modelo, foram obtidos os seguintes resultados:
+
+Erro Médio Absoluto (MAE): [Valor do MAE] - Indica a média dos erros em relação às previsões de energia, em kWh.
+Erro Quadrático Médio (MSE): [Valor do MSE] - Mede a média dos erros ao quadrado, dando mais peso a erros maiores.
+Raiz do Erro Quadrático Médio (RMSE): [Valor do RMSE] - Fornece uma métrica de erro na mesma unidade da variável prevista (kWh).
+Os gráficos gerados mostram que o modelo foi capaz de capturar bem as tendências gerais da demanda de energia, embora haja algumas discrepâncias em situações específicas.
+
+## **Conclusão**
+O sistema desenvolvido foi eficaz em prever a demanda de energia para o carregamento de veículos elétricos. As previsões fornecidas pelo modelo de Machine Learning ajudam na otimização do uso de energia e na redução de custos operacionais. Utilizar essas previsões permite ajustar a operação das estações de carregamento para horários de menor custo e otimizar o uso da infraestrutura existente.
