@@ -7,7 +7,8 @@ Este projeto visa a criação de um sistema de **Inteligência Artificial** para
 O objetivo é prever a quantidade de energia necessária (`kwhTotal`) para futuras sessões de carregamento, utilizando dados históricos e informações adicionais sobre as estações e sessões de carregamento. Com essa previsão, podemos otimizar o uso da infraestrutura de carregamento, economizar custos operacionais e garantir uma melhor gestão da energia disponível.
 
 ## **Dados Utilizados**
-O projeto utiliza um dataset chamado `station_data_dataverse` que contém as seguintes colunas:
+O projeto utiliza um dataset chamado `station_data_dataverse`(https://www.kaggle.com/datasets/michaelbryantds/electric-vehicle-charging-dataset?select=station_data_dataverse.csv)
+que contém as seguintes colunas:
 
 - **sessionId**: Identificador único da sessão de carregamento.
 - **kwhTotal**: Quantidade total de energia carregada (em kWh).
