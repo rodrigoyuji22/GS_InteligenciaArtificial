@@ -1,4 +1,5 @@
 # **Sistema de Previsão e Otimização de Carregamento de Veículos Elétricos 🚗⚡**
+# Integrantes: Rodrigo Sakaguchi - RM88010 // Marcelo Kutudjian Filho - RM93124
 
 ## **Descrição do Projeto**
 Este projeto visa a criação de um sistema de **Inteligência Artificial** para **otimizar o carregamento de veículos elétricos**. Utilizamos técnicas de **Machine Learning** para prever a demanda de energia em estações de carregamento, ajudando a otimizar a gestão dos recursos energéticos, reduzir custos e melhorar a eficiência energética.
